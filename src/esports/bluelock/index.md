@@ -10,12 +10,12 @@ The team is always looking for new talent to join the team. If you are intereste
 
 ### Players
 
-| Role               | Description                                                                   | Apply                                                                       |
-| ------------------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Damage Player      | Participates in most sessions and acts as a mentor for damage substitutes.    | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
-| Tank Substitute    | Acts as a backup for the main tank player, may participate in some games.     | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
-| Damage Substitute  | Acts as a backup for the main damage players, may participate in some games.  | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
-| Support Substitute | Acts as a backup for the main support players, may participate in some games. | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
+| Role               | Description                                                                      | Apply                                                                       |
+| ------------------ | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Damage Player      | Participates in most sessions and acts as a mentor for damage substitutes.       | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
+| Tank Substitute    | Acts as a backup for the primary tank player, may participate in some games.     | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
+| Damage Substitute  | Acts as a backup for the primary damage players, may participate in some games.  | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
+| Support Substitute | Acts as a backup for the primary support players, may participate in some games. | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
 
 ### Coaches
 
