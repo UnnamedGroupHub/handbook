@@ -100,9 +100,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/UnnamedGroup/handbook" },
-      // { icon: "gitlab", link: "https://gitlab.com/unnamed.group/handbook" },
-      { icon: "twitter", link: "https://twitter.com/UnnamedEsportsX" },
+      { icon: "github", link: "https://github.com/UnnamedGroupHub/handbook" },
+      { icon: "twitter", link: "https://twitter.com/UnnamedGroupX" },
     ],
 
     search: {
@@ -111,7 +110,7 @@ export default defineConfig({
 
     editLink: {
       pattern:
-        "https://gitlab.com/unnamed.group/handbook/-/edit/main/src/:path",
+        "https://github.com/UnnamedGroupHub/handbook/edit/main/src/:path",
       text: "Edit this page",
     },
 
@@ -125,7 +124,7 @@ export default defineConfig({
 
     footer: {
       message:
-        "Released under the <a href='https://gitlab.com/unnamed.group/handbook/blob/main/LICENSE' target='_blank'>Unlicense</a>.",
+        "Released under the <a href='https://github.com/UnnamedGroupHub/handbook/blob/main/LICENSE' target='_blank'>Unlicense</a>.",
       copyright: "Dedicated to the Public Domain.",
     },
   },
