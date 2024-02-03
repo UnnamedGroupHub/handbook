@@ -19,12 +19,13 @@ The team is always looking for new talent to join the team. If you are intereste
 
 ### Coaches
 
-| Role          | Description                                                                                    | Apply                                                      |
-| ------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Head Coach    | Provides the team with strategies and tactics to improve their performance.                    | Message `zuedev` on Discord your portfolio and experience. |
-| Tank Coach    | Provides the tank player and substitutes with advice and strategies specific to their role.    | Message `zuedev` on Discord your portfolio and experience. |
-| Damage Coach  | Provides the damage player and substitutes with advice and strategies specific to their role.  | Message `zuedev` on Discord your portfolio and experience. |
-| Support Coach | Provides the support player and substitutes with advice and strategies specific to their role. | Message `zuedev` on Discord your portfolio and experience. |
+| Role          | Description                                                                                                       | Apply                                                      |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Head Coach    | Provides the team with strategies and tactics to improve their performance.                                       | Message `zuedev` on Discord your portfolio and experience. |
+| Tank Coach    | Provides the tank player and substitutes with advice and strategies specific to their role.                       | Message `zuedev` on Discord your portfolio and experience. |
+| Damage Coach  | Provides the damage player and substitutes with advice and strategies specific to their role.                     | Message `zuedev` on Discord your portfolio and experience. |
+| Support Coach | Provides the support player and substitutes with advice and strategies specific to their role.                    | Message `zuedev` on Discord your portfolio and experience. |
+| Mental Coach  | Provides the team with mental health and wellness advice, allowing them to perform at their best without burnout. | Message `zuedev` on Discord your portfolio and experience. |
 
 ### Staff
 
