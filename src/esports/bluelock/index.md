@@ -12,7 +12,6 @@ The team is always looking for new talent to join the team. If you are intereste
 
 | Role               | Description                                                                   | Apply                                                                       |
 | ------------------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Tank Player        | Participates in most sessions and acts as a mentor for tank substitutes.      | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
 | Damage Player      | Participates in most sessions and acts as a mentor for damage substitutes.    | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
 | Tank Substitute    | Acts as a backup for the main tank player, may participate in some games.     | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
 | Damage Substitute  | Acts as a backup for the main damage players, may participate in some games.  | Fill out the [Player Application Form](https://forms.gle/R9bZUuPUMyRw91Bb9) |
