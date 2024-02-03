@@ -177,3 +177,14 @@ hb {
 
   font-weight: bold;
 }
+
+/* custom stuff */
+
+.titleIcon {
+  height: 8rem;
+  margin-bottom: 2rem;
+}
+
+.titleHeader {
+  margin-bottom: 2rem;
+}

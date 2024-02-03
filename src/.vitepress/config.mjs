@@ -84,6 +84,16 @@ export default defineConfig({
           link: "/esports/admins/",
           items: [],
         },
+        {
+          text: "Blue Lock",
+          link: "/esports/bluelock/",
+          items: [
+            // {
+            //   text: "Player Primer",
+            //   link: "/esports/bluelock/player-primer",
+            // },
+          ],
+        },
       ],
       "/staff/": [
         {
