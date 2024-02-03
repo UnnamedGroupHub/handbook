@@ -6,7 +6,7 @@ Blue Lock is Unnamed Group's premier Overwatch 2 esports team managed personally
 
 ## Open Positions
 
-Blue Lock is always looking for new talent to join the team. If you are interested in joining, please fill out the appropriate form below and we will get back to you as soon as possible.
+The team is always looking for new talent to join the team. If you are interested in joining, please fill out the appropriate form below and we will get back to you as soon as possible.
 
 ### Players
 
