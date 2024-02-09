@@ -2,7 +2,7 @@
 
 This document is a non-binding agreement between Unnamed Group administration, Monsoon management, and Monsoon players. It will be updated as necessary and is always the most current version.
 
-In line with Monsoon's [Transparency](./policies/transparency.md) and [Clarity](./policies/clarity.md) policies, it's publicly available with explanations for each term.
+In line with Monsoon's [Transparency](#) and [Clarity](#) policies, it's publicly available with explanations for each term.
 
 All terms can have exceptions and are considered case by case. Our top priority is the well-being of our players and staff.
 
