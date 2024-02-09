@@ -54,6 +54,10 @@ export default defineConfig({
           link: "/esports/players/",
           items: [
             {
+              text: "Terms of Agreement",
+              link: "/esports/players/terms",
+            },
+            {
               text: "Statistics",
               link: "/esports/players/statistics",
             },
